@@ -1,6 +1,9 @@
 # todo-list-made-using-ai
 
-# comandos:
+## comandos:
 
-# iniciar o server:
+### iniciar o server:
 python app.py
+
+### rodar os testes
+python -m unittest test_app.py
